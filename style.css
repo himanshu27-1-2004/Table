@@ -1,10 +1,14 @@
-    body {
-      background-color: #0f2027; 
-      font-family: Arial, sans-serif;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
+   body {
+  background-color: #0f2027; 
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+    h1{
+      font-weight: bold;
+      box-shadow: 2px 2px 4px rgb(172, 172, 172);
+      text-align: center;
+      color: white;
     }
 
     table {
@@ -14,6 +18,8 @@
       color: white;
       border-radius: 8px;
       overflow: hidden;
+     margin: 40px auto; /* Center horizontally */
+
     }
 
     th, td {
@@ -33,6 +39,7 @@
         
         color: white;
         background-color: #0f2027;
+        cursor: pointer;
     }
 
     button {
@@ -40,7 +47,6 @@
       border: none;
       padding: 6px 14px;
       border-radius: 6px;
-      cursor: pointer;
       color: white;
       font-size: 14px;
     }
