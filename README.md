@@ -24,16 +24,15 @@ It displays a list of providers along with their email addresses and a **Select*
 
 Here is how the table looks in the browser:
 
-![Table Preview](image/screenshot.png)
+![Table Preview](image/Screenshot23.png)
 
 ---
 
 ## Project Structure
-
-│── index.html
-│── style.css
-│── README.md
-│── image
+─ index.html
+─ style.css
+─ README.md
+─ image
 
 ## Live Demo
  
